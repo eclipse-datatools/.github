@@ -1,5 +1,3 @@
-## Eclipse Data Tools Platform
+## Data Tools Platform .github repo
 
-The Eclipse Data Tools Platform provides extensible frameworks and exemplary tools, enabling a diverse set of plug-in offerings specific to particular data-centric technologies.
-
-Please visit the [Data Tools site](https://www.eclipse.org/datatools/) for details.
+This repo is used to create default files as described in [Creating a default community health file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
