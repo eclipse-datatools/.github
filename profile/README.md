@@ -1,4 +1,4 @@
-![Data TOools Banner](/images/dtp.svg)
+![Data Tools Banner](/images/dtp.svg)
 
 ## Eclipse Data Tools Platform
 
