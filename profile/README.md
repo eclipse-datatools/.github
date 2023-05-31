@@ -6,6 +6,14 @@ The Eclipse Data Tools Platform provides extensible frameworks and exemplary too
 
 Please visit the [Data Tools site](https://www.eclipse.org/datatools/) for project details.
 
+## Builds
+
+https://ci.eclipse.org/datatools/job/build
+
+## Updates
+
+https://download.eclipse.org/datatools/updates/
+
 ## Contributing
 
 See [CONTRIBUTING.md](/CONTRIBUTING.md).
