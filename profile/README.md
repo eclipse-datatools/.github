@@ -14,6 +14,10 @@ https://ci.eclipse.org/datatools/job/build
 
 https://download.eclipse.org/datatools/updates/
 
+## Wiki
+
+https://github.com/eclipse-datatools/.github/wiki/Data_Tools_Platform_Project
+
 ## Contributing
 
 See [CONTRIBUTING.md](/CONTRIBUTING.md).
