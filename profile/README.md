@@ -20,4 +20,9 @@ https://github.com/eclipse-datatools/.github/wiki/Data_Tools_Platform_Project
 
 ## Contributing
 
+Data Tools is supported in maintenance mode.
+If you need a problem fixed or you want a feature implemented,
+you'll need to consider how to sponsor that
+or you'll need to create a create a pull request for that.
+
 See [CONTRIBUTING.md](/CONTRIBUTING.md).
